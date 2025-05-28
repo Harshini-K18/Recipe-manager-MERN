@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json());
 
 // ✅ Replace with your MongoDB Atlas connection string
-const MONGODB_URI = "mongodb+srv://harshu:Harshu18@cluster0.udkrktk.mongodb.net/recipeManager?retryWrites=true&w=majority&appName=Cluster0";
+const MONGODB_URI = "ADD YOUR URL HERE";
 
 mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
