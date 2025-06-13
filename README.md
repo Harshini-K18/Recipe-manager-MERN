@@ -2,7 +2,6 @@
 
 A full-stack Recipe Manager application built with the MERN stack (MongoDB, Express.js, React, Node.js). Users can add, view, edit, delete, and search for recipes.
 
-Live Demo: [Add deployed link here if available]
 
 ---
 
